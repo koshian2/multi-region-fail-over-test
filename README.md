@@ -1,2 +1,5 @@
 # multi-region-fail-over-test
-A test for multi-region fail over
+A toy example for multi-region fail over
+
+
+![](multi_region_failover.png)
